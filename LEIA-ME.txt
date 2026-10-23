@@ -1,0 +1,26 @@
+PIER 10 — SITE VITRINE DEMONSTRATIVO | NEXUS
+
+ARQUIVOS
+- index.html: conteúdo, seções, produtos e textos.
+- style.css: cores, layout e responsividade.
+- script.js: filtros do cardápio e configuração dos pedidos pelo WhatsApp.
+
+TESTAR LOCALMENTE
+1. Extraia o ZIP.
+2. Abra a pasta.
+3. Dê dois cliques em index.html para abrir no navegador.
+4. Teste os filtros do cardápio e os botões Pedir. Em modo demonstração, os botões avisam que falta configurar o número.
+
+ANTES DE PUBLICAR PARA O RESTAURANTE
+1. Confirme os pratos e preços reais e edite os cards em index.html.
+2. Troque endereço, horário, história e dados de contato.
+3. Em script.js, troque WHATSAPP_NUMBER pelo número oficial com código do país e DDD, somente dígitos.
+4. Altere DEMO_MODE = true para DEMO_MODE = false.
+5. Remova o aviso amarelo de demonstração do topo e o aviso de preços fictícios no cardápio quando tudo estiver validado.
+6. Troque as fotos de demonstração por fotos autorizadas do restaurante, se disponíveis.
+7. Teste todos os links no celular antes de compartilhar.
+
+OBSERVAÇÕES
+- Os preços, produtos, endereço e horários são fictícios.
+- As fotos usam URLs remotas do Unsplash e precisam de internet para aparecer.
+- Este projeto é um site estático; não recebe pagamentos e não confirma pedidos automaticamente.
